@@ -1,7 +1,7 @@
 CC 						= cc 
 FLAGS                   = -Wall -Wextra -Werror -Imlx -Ofast
 NAME					= cub3D
-NAME_BONUS			    = cub3D_bonus1
+NAME_BONUS			    = cub3D_bonus
 
 SRCS					= ./mandatory/raycasting/cub3d.c \
 						  ./mandatory/raycasting/player.c \
