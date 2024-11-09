@@ -5,6 +5,8 @@
   </a>
 </p>
 
+### **Final Score** - 125/100
+
 ## Definitions / Information:
 
 * **Raycasting** is a rendering technique used to create a 3D perspective within a 2D map.
