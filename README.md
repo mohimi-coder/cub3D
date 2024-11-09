@@ -23,3 +23,12 @@ Fisheye Effect - This effect distorts the view by rounding walls when real dista
 * bresenham_line can detect block-by-block movement along the ray's path in both x and y coordinates.
 * A plane size of 0.66 is often ideal for FPS games.
 * Formula: Direction + Plane + Multiplier (-1 to 1)
+
+
+## Links:
+* [Game Wolfenstein 3D](http://users.atw.hu/wolf3d/)
+* [MinilibX](https://harm-smits.github.io/42docs/libs/minilibx)
+* [Ray casting tutorial demos](https://github.com/permadi-com/ray-cast/tree/master/)
+* [Ray Casting tutor](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
+* [Trigonometry](https://en.wikipedia.org/wiki/Trigonometry)
+* [Lodev - Raycasting](https://lodev.org/cgtutor/raycasting.html)
