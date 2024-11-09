@@ -25,7 +25,7 @@ Fisheye Effect - This effect distorts the view by rounding walls when real dista
 * Formula: Direction + Plane + Multiplier (-1 to 1)
 
 
-## Links:
+## Useful Resources Links:
 * [Game Wolfenstein 3D](http://users.atw.hu/wolf3d/)
 * [MinilibX](https://harm-smits.github.io/42docs/libs/minilibx)
 * [Ray casting tutorial demos](https://github.com/permadi-com/ray-cast/tree/master/)
