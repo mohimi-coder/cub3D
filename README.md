@@ -32,7 +32,7 @@ The map can be freely created by the user, must be closed, and composed by the f
 - `1` for a wall
 - `N` `S` `E` `W` for the spwaning orientation
 
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 Here is an example of a valid map provided by the subject, with the path for textures and the RGB colors for the floor and ceiling :
 
 ```shell
@@ -57,7 +57,7 @@ C 225,30,0
 11110111 1110101 101111010001
 11111111 1111111 111111111111
 ```
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 ## Parsing methodology
 
 According to the constraints imposed by the subject, the parsing was carried out in the following way :
@@ -71,8 +71,8 @@ According to the constraints imposed by the subject, the parsing was carried out
 - **Horizontal check** : check for each line if the characters are valid characters `"01NSEW "`. In case of space, check if the character preceding the space is a `1`, and if the next character following the **space string** is a `1` or the end of line. So it is possible to have space holes in a map provided that this hole is surrounded by walls.
 
 - **Vertical check** : The vertical check follows the same logic, constant verification that a wall is present before and after a space string. The combination of the vertical and horizontal check will allow to create any type of map, rounded or with islands, while checking that there is no opening, in example a `0` not surrounded by `1`.
-
 ## Definitions / Information:
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
 * **Raycasting** is a rendering technique used to create a 3D perspective within a 2D map.
 * **Raycasting** differs from raytracing:
@@ -90,7 +90,7 @@ Fisheye Effect - This effect distorts the view by rounding walls when real dista
 * bresenham_line can detect block-by-block movement along the ray's path in both x and y coordinates.
 * A plane size of 0.66 is often ideal for FPS games.
 * Formula: Direction + Plane + Multiplier (-1 to 1)
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
 ## Useful Resources Links:
 * [Game Wolfenstein 3D](http://users.atw.hu/wolf3d/)
