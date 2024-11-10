@@ -112,3 +112,5 @@ Fisheye Effect - This effect distorts the view by rounding walls when real dista
 * [Ray Casting tutor](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents/)
 * [Trigonometry](https://en.wikipedia.org/wiki/Trigonometry)
 * [Lodev - Raycasting](https://lodev.org/cgtutor/raycasting.html)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2373B7F7&center=true&vCenter=true&lines=Have+a+nice+day+🤗)](https://git.io/typing-svg)
