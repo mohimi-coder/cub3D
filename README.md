@@ -85,6 +85,7 @@ According to the constraints imposed by the subject, the parsing was carried out
    3. The floor is consistently flat.
 * **FOV**(Field of View) - Defines the visible area in front of the player, allowing players to see what's ahead. The player's FOV is determined by the X and Y coordinates, along with the angle they’re facing.
 Fisheye Effect - This effect distorts the view by rounding walls when real distances are used, potentially causing discomfort if the player rotates.
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 ## Technical Details:
 * bresenham_line handles wall “hits” by calculating ray intersections until contact with a wall is made. This framework allows detection of hit blocks without requiring distance calculations, enabling clearer design.
 * bresenham_line can detect block-by-block movement along the ray's path in both x and y coordinates.
