@@ -57,7 +57,9 @@ C 225,30,0
 11110111 1110101 101111010001
 11111111 1111111 111111111111
 ```
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
+
 ## Parsing methodology
 
 According to the constraints imposed by the subject, the parsing was carried out in the following way :
@@ -72,6 +74,7 @@ According to the constraints imposed by the subject, the parsing was carried out
 
 - **Vertical check** : The vertical check follows the same logic, constant verification that a wall is present before and after a space string. The combination of the vertical and horizontal check will allow to create any type of map, rounded or with islands, while checking that there is no opening, in example a `0` not surrounded by `1`.
 ## Definitions / Information:
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
 * **Raycasting** is a rendering technique used to create a 3D perspective within a 2D map.
@@ -85,12 +88,15 @@ According to the constraints imposed by the subject, the parsing was carried out
    3. The floor is consistently flat.
 * **FOV**(Field of View) - Defines the visible area in front of the player, allowing players to see what's ahead. The player's FOV is determined by the X and Y coordinates, along with the angle they’re facing.
 Fisheye Effect - This effect distorts the view by rounding walls when real distances are used, potentially causing discomfort if the player rotates.
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
+
 ## Technical Details:
 * bresenham_line handles wall “hits” by calculating ray intersections until contact with a wall is made. This framework allows detection of hit blocks without requiring distance calculations, enabling clearer design.
 * bresenham_line can detect block-by-block movement along the ray's path in both x and y coordinates.
 * A plane size of 0.66 is often ideal for FPS games.
 * Formula: Direction + Plane + Multiplier (-1 to 1)
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
 ## Useful Resources Links:
