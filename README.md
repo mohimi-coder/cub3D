@@ -13,6 +13,8 @@ To conclude cub3D is a remarkable playground to explore the playful practical ap
 With the help of the numerous documents available on the internet, you will use
 mathematics as a tool to create elegant and efficient algorithms
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
+
 ### **Final Score** - 125/100
 
 The project must respect certain constraints :
