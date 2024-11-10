@@ -19,8 +19,8 @@ mathematics as a tool to create elegant and efficient algorithms
 
 * **Raycasting** is a rendering technique used to create a 3D perspective within a 2D map.
 * **Raycasting** differs from raytracing:
- - **Raycasting** is a quick, semi-3D technique that can run in real-time, even on low-power devices like 4MHz graphical calculators.
- - **Raytracing**, by contrast, is a realistic rendering technique that supports reflections and shadows in true 3D scenes, requiring high processing power to render in real time with high resolution and scene complexity.
+     - **Raycasting** is a quick, semi-3D technique that can run in real-time, even on low-power devices like 4MHz graphical calculators.
+     - **Raytracing**, by contrast, is a realistic rendering technique that supports reflections and shadows in true 3D scenes, requiring high processing power to render in real time with high resolution and scene complexity.
 * **bresenham_line** - The Bresenham Line algorithm is used to draw lines incrementally on a screen. This algorithm is simple to understand and implement, and it works by interpolating based on the difference between the starting and ending points.
 * **Ray Casting Principles**:
  1. Walls maintain a 90° angle with the floor.
