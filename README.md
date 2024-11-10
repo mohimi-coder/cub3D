@@ -114,5 +114,7 @@ Fisheye Effect - This effect distorts the view by rounding walls when real dista
 * [Lodev - Raycasting](https://lodev.org/cgtutor/raycasting.html)
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2373B7F7&center=true&vCenter=true&lines=Have+a+nice+day+🤗)](https://git.io/typing-svg)
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
