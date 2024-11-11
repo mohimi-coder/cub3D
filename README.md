@@ -105,6 +105,17 @@ Fisheye Effect - This effect distorts the view by rounding walls when real dista
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
+
+## First Look at Our Adventure in The Dark Power Empire 🎮😎
+
+  ![Dark_Power_game](https://github.com/user-attachments/assets/4f392eb9-f7bd-40a8-9fe0-1d22664379ab)
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
+
 ## Useful Resources Links:
 * [Game Wolfenstein 3D](http://users.atw.hu/wolf3d/)
 * [MinilibX](https://harm-smits.github.io/42docs/libs/minilibx)
