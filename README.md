@@ -111,9 +111,6 @@ Fisheye Effect - This effect distorts the view by rounding walls when real dista
   ![Dark_Power_game](https://github.com/user-attachments/assets/4f392eb9-f7bd-40a8-9fe0-1d22664379ab)
 
 
-
-
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=30&section=footer" width="100%"/>
 
 ## Useful Resources Links:
